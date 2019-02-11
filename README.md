@@ -1,5 +1,5 @@
 
-# NextJS Template with Redux & Saga
+# NextJS Boilerplate with Redux & Saga
 
 ### Description
 
